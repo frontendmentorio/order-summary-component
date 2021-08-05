@@ -24,17 +24,9 @@ The designs were created to the following widths:
 
 ### Body Copy
 
-- Font size: 
+- Font size (paragraph): 16px
 
 ### Font
 
-- Family: [Spartan](https://fonts.google.com/specimen/spartan)
-- Weights: 400, 500, 700
-
-## Icons
-
-We provide the required social icons. But, if you prefer, you can use a font icon library. Some suggestions can be found below:
-
-- [Font Awesome](https://fontawesome.com)
-- [IcoMoon](https://icomoon.io)
-- [Ionicons](https://ionicons.com)
+- Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
+- Weights: 500, 700, 900
